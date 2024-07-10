@@ -9,3 +9,7 @@ You are a junior data analyst working on the marketing analyst team at Cyclistic
 ### Data
 
 The data is chosen from [here](https://divvy-tripdata.s3.amazonaws.com/index.html). Recent 12 months data are chosen. Data follows ROCCC (Reliable, Original, Comprehensive, Current, and Cited).
+
+### Code and Conclusions
+
+Access the Report.R file for complete R code used for this case study and Report.Rmd for Visuals and conlusions.
