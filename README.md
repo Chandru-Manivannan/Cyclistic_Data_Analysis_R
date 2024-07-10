@@ -12,4 +12,4 @@ The data is chosen from [here](https://divvy-tripdata.s3.amazonaws.com/index.htm
 
 ### Code and Conclusions
 
-Access the Report.R file for complete R code used for this case study and Report.html for Visuals and conlusions.
+Access the Report.R file for complete R code used for this case study and Analysis on Cyclistic Data.pdf for Visuals and conlusions.
